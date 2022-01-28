@@ -14,8 +14,6 @@
 
 <h3 align="center">Languages:</h3>
 
-<br />
-
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
