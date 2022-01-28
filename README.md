@@ -10,8 +10,6 @@
   You can find all of my socials <a href="https://senbey.net">here</a>.
 </h4>
 
-<br />
-
 <h3 align="center">Languages:</h3>
 
 <p align="center">
