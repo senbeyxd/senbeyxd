@@ -26,8 +26,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="CSS3"
       width="40"
-      height="40"
-    /> </a
+      height="40" /></a
   ><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -52,7 +51,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=senbeyxd&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=senbeyxd"
     alt="Contributions"
   />
 </p>
