@@ -1,13 +1,17 @@
 <div align="center">
   <h1>senbey</h1>
 
-  <h3>
-    Hey, my name is senbey. I'm a 17 year old student from Germany who is
-    interested in any kind of front-end development, although I'm more focused
-    on Node.js.
-  </h3>
+  <div>
+    <h3>
+      Hey, my name is senbey. I'm a 17 year old student from Germany who is
+      interested in any kind of front-end development, although I'm more focused
+      on Node.js.
+    </h3>
 
-  <h4>You can find all of my socials <a href="https://senbey.net">here</a>.</h4>
+    <h4>
+      You can find all of my socials <a href="https://senbey.net">here</a>.
+    </h4>
+  </div>
 
   <h3>Languages:</h3>
 
