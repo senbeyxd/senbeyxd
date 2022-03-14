@@ -1,18 +1,16 @@
-<h1 align="center">senbey</h1>
+<div align="center">
+  <h1>senbey</h1>
 
-<h3 align="center">
-  Hey, my name is senbey. I'm a 17 year old student from Germany who is
-  interested in any kind of front-end development, although I'm more focused on
-  Node.js.
-</h3>
+  <h3>
+    Hey, my name is senbey. I'm a 17 year old student from Germany who is
+    interested in any kind of front-end development, although I'm more focused
+    on Node.js.
+  </h3>
 
-<h4 align="center">
-  You can find all of my socials <a href="https://senbey.net">here</a>.
-</h4>
+  <h4>You can find all of my socials <a href="https://senbey.net">here</a>.</h4>
 
-<h3 align="center">Languages:</h3>
+  <h3>Languages:</h3>
 
-<p align="center">
   <a href="https://www.w3.org/html/">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -35,23 +33,19 @@
       height="40"
     />
   </a>
-</p>
 
-<br />
+  <br />
 
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=senbeyxd&show_icons=true&locale=en&layout=compact"
     alt="Most Used Languages"
   />
-</p>
 
-<br />
+  <br />
 
-<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=senbeyxd"
     alt="Contributions"
   />
-</p>
+</div>
