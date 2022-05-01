@@ -37,7 +37,7 @@
   <br />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=senbeyxd&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sxnbey&show_icons=true&locale=en&layout=compact"
     alt="Most Used Languages"
   />
 
@@ -45,7 +45,7 @@
 
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=senbeyxd"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sxnbey"
     alt="Contributions"
   />
 </div>
